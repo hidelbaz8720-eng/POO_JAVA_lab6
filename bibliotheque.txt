@@ -1,0 +1,20 @@
+Type : Audio
+Titre : Podcast Java
+Durée : 1800 secondes
+--------------------
+Type : Video
+Titre : Tutoriel UML
+Durée : 900 secondes
+--------------------
+Type : LiveStream
+Titre : Concert en direct
+Durée : -1 secondes
+--------------------
+Type : Audio
+Titre : Musique Classique
+Durée : 2400 secondes
+--------------------
+Type : Podcast
+Titre : Introduction à Java
+Durée : 1200 secondes
+--------------------
